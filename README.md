@@ -13,3 +13,5 @@ Tversky loss functions were analyzed and compared to obtain the highest Dice and
 scores. Binary Cross Entropy with Logit Loss is used as a baseline loss function. Experi
 ments with different Tversky Loss functions are performed by weighting recall and precision
 values. Results are compared in terms of accuracy and performance.
+
+<img width="631" alt="image" src="https://user-images.githubusercontent.com/38559757/197374292-e3dee9c9-e9fc-4e7d-9348-36b1e4dcfde9.png">
